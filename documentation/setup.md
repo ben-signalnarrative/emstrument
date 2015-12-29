@@ -39,7 +39,7 @@ work with Emstrument as of December 2015).
 Download `emstrument.so`, or download the source file and compile it yourself
 (if you prefer).
 
-This release package: [link] includes the pre-built library, as well as sample
+This release package: [link](https://github.com/ben-signalnarrative/emstrument/releases/tag/0.1) includes the pre-built library, as well as sample
 scripts and projects for Logic Pro X (which only use the stock instruments and
 effects). If Ableton is willing to give me a free copy of Live Standard or above 
 I'd be happy to recreate these projects for Live.
