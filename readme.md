@@ -17,7 +17,7 @@ Emstrument is currently only implemented for OS X, with ports for Windows and
 Linux possible if there is enough interest from musicians/developers. If you
 want to make a port, fork away!
 
-See documentation/setup.md for details on how to get started.
+See [setup.md](documentation/setup.md) for details on how to get started.
 
 ### Emstrument != Chiptune
 
