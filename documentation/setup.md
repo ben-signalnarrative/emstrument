@@ -26,12 +26,6 @@ you install Homebrew.
 ##### Step 2:
 Install modified FCEUX via Homebrew (includes Lua5.1)
 
->$ brew install ben-signalnarrative/homebrew-games/fceux
-
-The stock version of FCEUX doesn't include Lua support. There are a couple of pull
-requests open to enable it. Here is the stock version, for reference (will not 
-work with Emstrument as of December 2015).
-
 >$ brew install homebrew/games/fceux
 
 
