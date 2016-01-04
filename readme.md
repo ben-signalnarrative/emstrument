@@ -1,5 +1,7 @@
 # Emstrument
 
+![super mario bros keyboard gif](http://i.imgur.com/Ketq9ho.gif)
+
 Emstrument [emulator + instrument] is an experimental open-source Lua module
 which can be used to be convert retro games into new musical instruments or
 interactive musical compositions. Using an emulator that supports Lua scripting, in-game 
@@ -29,6 +31,8 @@ relationship full circle.
 
 ### New musical instruments
 
+![balloon fight pad gif](http://i.imgur.com/Gcoy7Mn.gif)
+
 Emstrument allows musicians to use games as a new kind of instrument, using interactions 
 and algorithms/data from the game to manipulate sound in new ways that cannot be 
 recreated with traditional musical interfaces. The visual component also adds a new
@@ -42,6 +46,8 @@ develop or prototype on top of recognizable classic games, instead of having
 to build or rebuild existing games from the ground up.
 
 ### Interactive algorithmic compositions
+
+![tetris sequencer gif](http://i.imgur.com/b3cJpDY.gif)
 
 Emstrument is not limited to controlling one instrument at a time; it can be used to create
 interactive full musical compositions that are
