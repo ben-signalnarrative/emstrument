@@ -151,11 +151,12 @@ we can make a function to do this automatically:
 
 Now let's plug that value into `MIDI.CC()`:
 
-            MIDI.CC(1, roundandlimit((127 / 176) * (176 - ypos)));
+            MIDI.CC(1, roundandclamp((127 / 176) * (176 - ypos)));
 
 We're sending MIDI CC number 1, which is the mod wheel. That means that whatever happens
 when you rotate the mod wheel on your MIDI keyboard is what will happen to the sound when
-Mario's y position changes.
+Mario's y position changes. A good place to test this is the coin room in world 1-1 (go
+down the 4th pipe).
 
 You may notice the sound changes a lot when Mario jumps very high (past the text at the 
 top of the screen), due to the y position wrapping back around to 256. Resolving this
